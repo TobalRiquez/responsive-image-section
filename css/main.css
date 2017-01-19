@@ -137,4 +137,13 @@ a {
     text-align: center;
   }
 
+  div {
+    max-width: 37%;
+    display: inline-block;
+  }
+
+  h1,p {
+    padding: 0 0 1.5rem;
+  }
+
 }
